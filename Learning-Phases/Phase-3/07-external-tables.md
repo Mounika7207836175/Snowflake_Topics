@@ -127,7 +127,6 @@ Do not assume a successful query proves every source record was read: Snowflake 
 - Private Azure storage integration and cloud permissions.
 - Azure event notifications for automatic refresh.
 - Partitioned Azure file layout and partition pruning verification.
-- Confirm the typed-table and independent-copy exercise results.
 
 ## Sources
 - [Snowflake external tables](https://docs.snowflake.com/en/user-guide/tables-external-intro)
