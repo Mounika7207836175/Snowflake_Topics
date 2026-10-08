@@ -217,7 +217,7 @@ Avoid using `ON_ERROR = 'CONTINUE'` casually in production. It can load partial 
 ## Optional follow-up
 
 - JSON loading into VARIANT and field extraction.
-- Schema detection and schema evolution using CSV/Parquet headers or structures.
+- Schema detection and schema evolution using CSV/Parquet headers or structures..
 - Error capture and load-history monitoring.
 
 ## References
